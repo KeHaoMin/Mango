@@ -8,6 +8,9 @@
 
 
 
+# 另一个小程序(优化版本,预留核心功能,美化界面)[直达链接](https://github.com/Xin-Felix/Share)https://github.com/Xin-Felix/Share
+
+
 # 2020-2-14后台源码公开
 
 ### 项目使用技术
